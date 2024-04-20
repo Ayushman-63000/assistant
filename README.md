@@ -3,6 +3,9 @@
 
 Welcome to our Voice Assistant project! This project aims to create a simple voice-controlled assistant that can perform various tasks like web browsing, playing music, setting alarms, and more.
 
+## Changes
+In both the python file there are lots of addreses to the crucial files that are stored in your pc you need to change the addreses according to your system
+
 ## Features
 
 - Voice recognition for user commands
